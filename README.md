@@ -46,6 +46,62 @@ Bridge traditional bioinformatics with data-driven and ML-based approaches
 
 Support self-learners, graduate students, and bioinformaticians building modern skills
 
+
+🚦 Recommended by Skill Level:
+
+🟢 Beginner:
+
+Foundational resources for learning programming, data analysis, and bioinformatics basics:
+
+- Bioinformatics Data Skills – Vince Buffalo
+
+- Bioinformatics with Python Cookbook – Tiago Antao
+
+- Essential Math for Data Science – Thomas Nield
+
+- Fundamentals of Data Engineering – Joe Reis
+
+- Fundamentals of Software Architecture
+
+- JavaScript: The Definitive Guide – David Flanagan
+
+- Learning SQL – Alan Beaulieu
+
+- Python for Data Analysis – Wes McKinney
+
+🟡 Intermediate:
+
+Books suited for those building pipelines, working with big data, and applying ML in bioinformatics:
+
+- Docker Up and Running – Sean Kane
+
+- Genomics in Azure Cloud – Colby Ford
+
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow – Aurélien Géron
+
+- Learning Spark – Holden Karau
+
+- Practical Statistics for Data Scientists – Peter Bruce
+
+- Reproducible Bioinformatics with Python – Ken Clark
+
+- Web Scraping with Python – Ryan Mitchell
+
+🔴 Advanced:
+ 
+Advanced books for those developing robust systems, working with cutting-edge tech, or exploring theoretical topics:
+
+- Building Microservices – Sam Newman
+
+- Designing Machine Learning Systems – Chip Huyen 
+
+- Learning Algorithms – George Heineman
+
+- Programming Quantum Computers – Eric R. Johnston
+
+
+
+
 🧠 Contributions:
 
 Got a book or resource that changed your work? Open a PR or issue!
