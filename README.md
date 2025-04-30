@@ -20,20 +20,22 @@ This is a remix-style repository: a living list compiled from personal experienc
 
 - Software Development & Pipelines for Bioinformatics
 
-📖 Structure
-Books are organized into thematic categories (or tags), with occasional notes, links, or brief recommendations.
+📖 Structure:
 
-📁 machine_learning/
+Books are organized into thematic categories (or tags), with occasional notes, links, or brief recommendations:
 
-📁 omics/
 
-📁 statistics/
+- 📁 machine_learning/
 
-📁 tools_and_pipelines/
+- 📁 omics/
 
-📁 foundational_bioinformatics/
+- 📁 statistics/
 
-📁 programming/
+- 📁 tools_and_pipelines/
+
+- 📁 foundational_bioinformatics/
+
+- 📁 programming/
 
 
 🚀 Goals:
