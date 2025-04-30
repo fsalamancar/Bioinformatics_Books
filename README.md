@@ -36,13 +36,15 @@ Books are organized into thematic categories (or tags), with occasional notes, l
 📁 programming/
 
 
-🚀 Goals
+🚀 Goals:
+
 Highlight resources that reflect current practices and future directions in bioinformatics
 
 Bridge traditional bioinformatics with data-driven and ML-based approaches
 
 Support self-learners, graduate students, and bioinformaticians building modern skills
 
-🧠 Contributions
+🧠 Contributions:
+
 Got a book or resource that changed your work? Open a PR or issue!
 Suggestions and discussions are welcome. Let’s keep this list relevant and sharp.
