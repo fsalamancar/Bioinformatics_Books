@@ -24,10 +24,15 @@ This is a remix-style repository: a living list compiled from personal experienc
 Books are organized into thematic categories (or tags), with occasional notes, links, or brief recommendations.
 
 📁 machine_learning/
+
 📁 omics/
+
 📁 statistics/
+
 📁 tools_and_pipelines/
+
 📁 foundational_bioinformatics/
+
 📁 programming/
 
 
